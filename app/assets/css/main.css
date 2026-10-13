@@ -1,0 +1,37 @@
+:root {
+    --font-display: "Fraunces", Georgia, serif;
+    --font-sans: "Noto Sans", system-ui, sans-serif;
+    --color-indigo-night: #1c2541;
+    --color-ochre: #e3a63a;
+    --color-banco: #7a4a2b;
+    --color-bone: #faf7f2;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: var(--font-sans);
+    font-size: 1.0625rem;
+    line-height: 1.7;
+    color: #1c1917;
+    background: var(--color-bone);
+}
+img,
+svg {
+    max-width: 100%;
+    height: auto;
+}
+:focus-visible {
+    outline: 3px solid var(--color-ochre);
+    outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+    * {
+        transition: none !important;
+    }
+}
