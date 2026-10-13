@@ -1,1 +1,102 @@
-{}
+{
+  "brand": "Hakili Dayɛlin",
+  "footer": "Kan, dɔnniya ni hakilitigiya Manden na",
+  "nav": {
+    "label": "Sira",
+    "skip": "Taa kunnafoni na",
+    "questions": "Ɲininkali looru",
+    "contact": "Sɛbɛn",
+    "language": "Kan"
+  },
+  "meta": {
+    "title": "Hakili Dayɛlin — Bamanankan kuma kɔrɔw ni Manden dɔnniya",
+    "description": "Bamanankan kuma kɔrɔw, Manden tɔgɔ, laadala, tariku ni kalan: Afiriki tilebin, Manden mansaya.",
+    "keywords": "Manden, Mandé, afrique de l'ouest, soudan français, empire mandingue, bamanankan, bambara, dioula, jula, maninka kan, malinké, susu, mandinka, kuma kɔrɔw"
+  },
+  "hero": {
+    "title": "Kan bɛ miiri cogo ni ɲɛnamaya cogo ta",
+    "intro": "Nin kuma kɔrɔw bɛ yɛlɛn ka bɔ mɔgɔ kɔrɔw ma ka taa mɔgɔ kuraw ma. Hakilitigi belebelew ye u dabɔ.",
+    "another": "Kuma kɔrɔ wɛrɛ"
+  },
+  "questions": {
+    "title": "Ɲininkali looru ka faamu",
+    "intro": "Kan fɔ, kan kalan ni a lakana ye hakili cogo, kuma cogo ni ɲɛnamaya cogo mara ye."
+  },
+  "sections": {
+    "identity": {
+      "label": "Mɔgɔ yɛrɛ",
+      "q": "Manden ye mun ye?",
+      "a1": "Manden ye Afiriki tilebin laadala yɔrɔ ye, Mali, Gine, Kodiwari, Senegali ni Burukina Faso fan fɛ. Kan ɲɔgɔn-dɔw bɛ fɔ yen: Bamanankan, Jula, Maninkakan, Malinke, Mandinka ni Susu.",
+      "a2": "I ka kan fɔ ye i yɛrɛ fɔ ye: foli, maana fɔ ni i ka yɔrɔ dɔn denbaya ni jamana kɔnɔ, o bɛɛ bɛ tɛmɛ kumaw fɛ."
+    },
+    "culture": {
+      "label": "Laadala",
+      "q": "Mɔgɔw bɛ ɲɛnamaya cogo di Sahɛli la bɔgɔ ka so kɔnɔ, minnu bɛ tɛmɛ san kɛmɛ caman kan?",
+      "a1": "Bɔgɔ ye dugukolo ye min bɛ kɛ so kɛli la. A bɛ bɛn Sahɛli ka waati ma.",
+      "a2": "Jenɛ la, dugu mɔgɔw bɛ Misiri belebele kuraya san o san. Baarakɛ dɔnniya bɛ tɛmɛ ka bɔ ɲɛmɔgɔ la ka taa kalandenw ma."
+    },
+    "complex": {
+      "label": "Yɛrɛ dɔgɔya",
+      "q": "Mun na Afiriki dɔnniya caman jatera dɔgɔ ye?",
+      "a1": "Tubabu ka mara waati la, olu ye kuma ɲɛ dɔnniya jate dɔgɔ ye ka tɛmɛ sɛbɛnni dɔnniya kan. O bɛ se ka yɛrɛ dɔgɔya lase mɔgɔw ma.",
+      "a2": "I ka kan ni i ka kuma kɔrɔw jate hakili ɲɛ yɔrɔ ye, o bɛ yɛrɛ jate segin i ma, k'a sɔrɔ i ma diɲɛ dɔnniya tɔw dɔgɔya."
+    },
+    "history": {
+      "label": "Tariku",
+      "q": "Manden mansaya tariku bɛ mun fɔ?",
+      "a1": "San kɛmɛ tan ni saba la, Sunjata Keyita ye Mali mansaya da. Kurukan Fuga sariya tɛmɛna da fɛ. A fɔra ko a ye ɲɔgɔn fɛ ɲɛnamaya sira dɔ sigi.",
+      "a2": "Jeliw bɛ siyaw ni maanaw mara. Olu ye nin tariku ka hakili ɲɛnama ye, sɛbɛnni kɔrɔw kɛrɛ fɛ."
+    },
+    "education": {
+      "label": "Kalan",
+      "q": "U tun bɛ sankolo lajɛli, jatew ni fɛn caman kalan cogo di ni masinw tun tɛ yen?",
+      "a1": "U tun bɛ kalan ni lajɛli, hakili ni dɔnniya di ye: ɲɛmɔgɔ tun bɛ a di kalanden ma. Sankolo tun bɛ sɛnɛ waati jira. Nɛgɛ dagali ni bɔgɔlanfini kɛli bɛ shimi dɔnniya jira.",
+      "a2": "Tinbuktu la, sɛbɛn ba caman bɛ yen Arabukan ni jamanakan na, minnu bɛ dɔnniya, sariya ni diinɛ kuma. Nin kalan laadala sɛbɛnnen bɛ yen, nka a dɔ ka kan ka lajɛ hali bi."
+    }
+  },
+  "contact": {
+    "title": "Sɛbɛn an ye",
+    "intro": "Hakili, laadilikan walima kuma kɔrɔ min bɛ i fɛ, a ci yan.",
+    "name": "I tɔgɔ",
+    "email": "I ka imɛli",
+    "type": "Cikan suguya",
+    "opinion": "Hakili",
+    "suggestion": "Laadilikan",
+    "proverb": "Kuma kɔrɔ ci",
+    "message": "I ka cikan",
+    "send": "Cikan ci",
+    "sending": "A bɛ ci la…",
+    "ok": "Cikan cira. I ni ce!",
+    "error": "A ma ci. I ka internɛti lajɛ ka segin."
+  },
+  "travel": {
+    "title": "Manden taamara yɔrɔ jumɛnw la?",
+    "intro": "Manden ma to a bɔyɔrɔ la. Nin ye taamashyɛnw ye, ni u dan ye.",
+    "mapLabel": "Misali, a tɛ bɛn jate ma: yɔrɔ looru min bɛ Manden ni ɲɔgɔn ye, ka bɔ Manden na ka taa Boriku ni Kano la.",
+    "mapNote": "Misali dɔrɔn, a tɛ jate kɔrɔ ye.",
+    "items": {
+      "manden": {
+        "place": "Manden",
+        "text": "Mali mansaya bɔyɔrɔ, san kɛmɛ tan ni saba la."
+      },
+      "kaabu": {
+        "place": "Gambi ni Gine-Bisawo",
+        "text": "Kaabu tun ye Manden mansaw ka jɛkulu ye. Tiramakan Tarawele, Sunjata ka kɛlɛcɛ, ye a da. A kɛra yɛrɛmara ye Mali kɔ, san 1537 jate, a binna Kansala la san 1867."
+      },
+      "sierra": {
+        "place": "Siyera Leyɔni",
+        "text": "Mandekan caman bɛ fɔ yen (Mende, Kono, Kurankɔ, Susu). U ni Mali mansaya ɲɔgɔn bɛ cogo min na, o ma dɔn kosɛbɛ."
+      },
+      "kano": {
+        "place": "Kano (Nijeriya)",
+        "text": "Wangara julaw, Manden bɔbagaw, ye silamɛya lase Kano ma, Kano tariku sɛbɛn ye a fɔ ten. A kɛra san 1349-1385 walima san 1463-1499."
+      },
+      "borgou": {
+        "place": "Boriku (Beni ni Nijeriya)",
+        "text": "Boko/Busa bɛ Mandekan dɔ fɔ yen, ani Wangara jamaw bɛ yen fana. Nin ye jago, diinɛ ni kan ye, a tɛ kɛlɛ sɔrɔli ye."
+      }
+    },
+    "caveat": "Manden ni Mali mansaya tɛ kelen ye: Mandekan siyaw ka kɔrɔ ka tɛmɛ mansaya kan.",
+    "sources": "A lajɛ: Kaabu ko sɛbɛnw, Kano tariku sɛbɛn, ani Brégand ka « Les Wangara du Borgou »."
+  }
+}

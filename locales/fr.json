@@ -1,1 +1,102 @@
-{}
+{
+  "brand": "Hakili Dayɛlin",
+  "footer": "Langue, savoirs et sagesse du Mandé",
+  "nav": {
+    "label": "Navigation principale",
+    "skip": "Aller au contenu",
+    "questions": "Cinq questions",
+    "contact": "Contact",
+    "language": "Langue"
+  },
+  "meta": {
+    "title": "Hakili Dayɛlin — Proverbes bambara et savoirs du Mandé",
+    "description": "Proverbes bambara, identité, culture, histoire et éducation du Mandé : Afrique de l'Ouest, empire mandingue, Soudan français, langues mandées.",
+    "keywords": "Mandé, afrique de l'ouest, soudan français, empire mandingue, bambara, dioula, maninka kan, malinké, susu, mandinka, proverbes, n'ko"
+  },
+  "hero": {
+    "title": "Une langue porte une façon de penser et de vivre",
+    "intro": "Ces proverbes traversent les générations. Ils ont été pensés par de grands esprits dont le savoir reste difficile à mesurer.",
+    "another": "Un autre proverbe"
+  },
+  "questions": {
+    "title": "Cinq questions pour comprendre",
+    "intro": "Parler, étudier et transmettre une langue, c'est garder un état d'esprit, une manière de dire et un mode de vie."
+  },
+  "sections": {
+    "identity": {
+      "label": "Identité",
+      "q": "C'est quoi le Mandé ?",
+      "a1": "Le Mandé désigne une aire culturelle d'Afrique de l'Ouest, autour du Mali, de la Guinée, de la Côte d'Ivoire, du Sénégal et du Burkina Faso. On y parle des langues apparentées : bambara, dioula, maninka, malinké, mandinka, susu.",
+      "a2": "Parler sa langue, c'est dire qui l'on est : la façon de saluer, de raconter et de se situer dans une famille et une communauté passe par les mots."
+    },
+    "culture": {
+      "label": "Culture",
+      "q": "Comment vit-on au Sahel dans des maisons en banco qui traversent les siècles ?",
+      "a1": "Le banco est une terre crue mêlée de paille ou de balle de riz. Épais, il garde la fraîcheur le jour et la chaleur la nuit, ce qui convient au climat sahélien.",
+      "a2": "Cette architecture suppose un entretien collectif : à Djenné, la communauté recrépit chaque année la grande mosquée. Le savoir-faire se transmet de maçon à apprenti."
+    },
+    "complex": {
+      "label": "Complexe",
+      "q": "Pourquoi tant de savoirs africains ont-ils été sous-estimés ?",
+      "a1": "La colonisation a souvent présenté les savoirs oraux comme inférieurs aux savoirs écrits, ce qui a pu nourrir un complexe d'infériorité chez les héritiers de ces cultures.",
+      "a2": "Regarder sa langue et ses proverbes comme des sources de pensée, c'est se réapproprier une fierté sans nier les autres savoirs du monde."
+    },
+    "history": {
+      "label": "Histoire",
+      "q": "Que raconte l'histoire de l'empire mandingue ?",
+      "a1": "Au XIIIe siècle, Soundiata Keïta fonde l'empire du Mali. La charte du Kouroukan Fouga, transmise oralement, aurait fixé des règles de vie commune.",
+      "a2": "Les griots (jeliw) conservent généalogies et récits. Ils sont la mémoire vivante de cette histoire, à côté des archives écrites."
+    },
+    "education": {
+      "label": "Éducation",
+      "q": "Comment étudiait-on astronomie, mathématiques ou chimie sans technologie moderne ?",
+      "a1": "Par l'observation, la mémoire et la transmission de maître à élève. Le ciel guidait les calendriers agricoles ; la forge du fer, la teinture à l'indigo et le bogolan reposent sur une chimie empirique.",
+      "a2": "À Tombouctou, des milliers de manuscrits en arabe et en langues locales traitent de sciences, de droit et de religion. Cette tradition d'étude est documentée, mais reste en partie à explorer."
+    }
+  },
+  "contact": {
+    "title": "Écrivez-nous",
+    "intro": "Un avis, une suggestion ou un proverbe à proposer ? Envoyez-le ici.",
+    "name": "Votre nom",
+    "email": "Votre e-mail",
+    "type": "Type de message",
+    "opinion": "Avis",
+    "suggestion": "Suggestion",
+    "proverb": "Proposer un proverbe",
+    "message": "Votre message",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours…",
+    "ok": "Message envoyé. Merci !",
+    "error": "L'envoi a échoué. Vérifiez votre connexion et réessayez."
+  },
+  "travel": {
+    "title": "Où le Mandé a-t-il voyagé ?",
+    "intro": "Le Mandé n'est pas resté dans son berceau. Voici des traces documentées, avec leurs limites.",
+    "mapLabel": "Schéma, hors échelle : cinq lieux liés au monde mandé, du Mandé à l'ouest jusqu'au Borgou et à Kano à l'est.",
+    "mapNote": "Schéma sans échelle exacte.",
+    "items": {
+      "manden": {
+        "place": "Le Mandé",
+        "text": "Cœur historique de l'empire du Mali, fondé au XIIIe siècle."
+      },
+      "kaabu": {
+        "place": "Gambie et Guinée-Bissau",
+        "text": "Le Kaabu, fédération de royaumes mandingues, est lié par la tradition à Tiramakhan Traoré, général de Soundiata. Il devient indépendant du Mali vers 1537 et tombe à Kansala en 1867."
+      },
+      "sierra": {
+        "place": "Sierra Leone",
+        "text": "On y parle plusieurs langues mandées (mende, kono, kuranko, soussou). Leur lien exact avec l'empire du Mali reste discuté."
+      },
+      "kano": {
+        "place": "Kano (Nigeria)",
+        "text": "Les Wangara, marchands et lettrés d'origine mandée, sont associés par la Chronique de Kano à l'introduction de l'islam, sous Yaji (1349-1385) ou sous Muhammad Rumfa (1463-1499) selon les sources."
+      },
+      "borgou": {
+        "place": "Borgou (Bénin et Nigeria)",
+        "text": "Les Boko et Busa parlent une langue mandée, et des communautés wangara y sont documentées. L'influence est commerciale, religieuse et linguistique, pas une conquête démontrée."
+      }
+    },
+    "caveat": "Mandé ne veut pas dire empire du Mali : les langues mandées forment une famille bien plus ancienne que l'empire.",
+    "sources": "À consulter : travaux sur le Kaabu (Canós-Donnay, Mane), Chronique de Kano, et « Les Wangara du Borgou » de Brégand."
+  }
+}

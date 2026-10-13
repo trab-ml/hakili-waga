@@ -1,1 +1,102 @@
-{}
+{
+  "brand": "Hakili Dayɛlin",
+  "footer": "Language, knowledge and wisdom of the Mandé",
+  "nav": {
+    "label": "Main navigation",
+    "skip": "Skip to content",
+    "questions": "Five questions",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "meta": {
+    "title": "Hakili Dayɛlin — Bambara proverbs and Mandé knowledge",
+    "description": "Bambara proverbs, identity, culture, history and education of the Mandé: West Africa, Mandinka empire, French Sudan, Mande languages.",
+    "keywords": "Mandé, west africa, french sudan, mandinka empire, bambara, dioula, maninka kan, malinke, susu, mandinka, proverbs, n'ko"
+  },
+  "hero": {
+    "title": "A language carries a way of thinking and living",
+    "intro": "These proverbs have crossed generations. They were shaped by great minds whose knowledge is still hard to measure.",
+    "another": "Another proverb"
+  },
+  "questions": {
+    "title": "Five questions to understand",
+    "intro": "Speaking, studying and passing on a language keeps alive a mindset, a way of speaking and a way of life."
+  },
+  "sections": {
+    "identity": {
+      "label": "Identity",
+      "q": "What is the Mandé?",
+      "a1": "The Mandé is a cultural area of West Africa around Mali, Guinea, Côte d’Ivoire, Senegal and Burkina Faso. Its related languages include Bambara, Dioula, Maninka, Malinke, Mandinka and Susu.",
+      "a2": "Speaking your language says who you are: greetings, storytelling and your place in a family and community all pass through words."
+    },
+    "culture": {
+      "label": "Culture",
+      "q": "How do people in the Sahel live in mud-brick houses that last for centuries?",
+      "a1": "Banco is raw earth mixed with straw or rice husk. Thick walls stay cool by day and keep warmth at night, which suits the Sahel climate.",
+      "a2": "This architecture relies on shared upkeep: in Djenné, the community re-plasters the great mosque every year. The craft passes from mason to apprentice."
+    },
+    "complex": {
+      "label": "Complex",
+      "q": "Why have so many African knowledge systems been underestimated?",
+      "a1": "Colonization often framed oral knowledge as inferior to written knowledge, which could feed an inferiority complex among heirs of these cultures.",
+      "a2": "Treating your language and proverbs as sources of thought restores pride without denying the world’s other knowledge traditions."
+    },
+    "history": {
+      "label": "History",
+      "q": "What does the history of the Mandinka empire tell us?",
+      "a1": "In the 13th century, Sundiata Keita founded the Mali Empire. The Kouroukan Fouga charter, passed down orally, is said to have set rules for shared life.",
+      "a2": "Griots (jeliw) keep genealogies and stories. They are the living memory of this history, alongside written archives."
+    },
+    "education": {
+      "label": "Education",
+      "q": "How did people study astronomy, mathematics or chemistry without modern technology?",
+      "a1": "Through observation, memory and teaching from master to student. The sky guided farming calendars; iron forging, indigo dyeing and bogolan rely on empirical chemistry.",
+      "a2": "In Timbuktu, thousands of manuscripts in Arabic and local languages cover science, law and religion. This scholarly tradition is documented but still partly unexplored."
+    }
+  },
+  "contact": {
+    "title": "Write to us",
+    "intro": "An opinion, a suggestion or a proverb to share? Send it here.",
+    "name": "Your name",
+    "email": "Your email",
+    "type": "Message type",
+    "opinion": "Opinion",
+    "suggestion": "Suggestion",
+    "proverb": "Suggest a proverb",
+    "message": "Your message",
+    "send": "Send message",
+    "sending": "Sending…",
+    "ok": "Message sent. Thank you!",
+    "error": "Sending failed. Check your connection and try again."
+  },
+  "travel": {
+    "title": "Where did the Mandé travel?",
+    "intro": "The Mandé did not stay in its cradle. Here are documented traces, with their limits.",
+    "mapLabel": "Schematic, not to scale: five places linked to the Mande world, from the Mandé in the west to Borgu and Kano in the east.",
+    "mapNote": "Schematic, not to exact scale.",
+    "items": {
+      "manden": {
+        "place": "The Mandé",
+        "text": "Historic heart of the Mali Empire, founded in the 13th century."
+      },
+      "kaabu": {
+        "place": "Gambia and Guinea-Bissau",
+        "text": "Kaabu, a federation of Mandinka kingdoms, is tied by tradition to Tiramakhan Traoré, a general of Sundiata. It became independent of Mali around 1537 and fell at Kansala in 1867."
+      },
+      "sierra": {
+        "place": "Sierra Leone",
+        "text": "Several Mande languages are spoken there (Mende, Kono, Kuranko, Susu). Their exact link to the Mali Empire is still debated."
+      },
+      "kano": {
+        "place": "Kano (Nigeria)",
+        "text": "The Wangara, traders and scholars of Mande origin, are linked by the Kano Chronicle to the arrival of Islam, under Yaji (1349-1385) or Muhammad Rumfa (1463-1499) depending on the source."
+      },
+      "borgou": {
+        "place": "Borgu (Benin and Nigeria)",
+        "text": "The Boko and Busa speak a Mande language, and Wangara communities are documented there. The influence is commercial, religious and linguistic, not a proven conquest."
+      }
+    },
+    "caveat": "Mandé does not mean the Mali Empire: Mande languages form a family much older than the empire.",
+    "sources": "Further reading: work on Kaabu (Canós-Donnay, Mane), the Kano Chronicle, and Brégand’s “Les Wangara du Borgou”."
+  }
+}

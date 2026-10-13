@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "verified": false,
+        "bm": "Jɛkabaara ye ɲɛtaa ye.",
+        "fr": "Le travail en commun mène au progrès.",
+        "en": "Working together leads to progress."
+    },
+    {
+        "id": 2,
+        "verified": false,
+        "bm": "Hakili ye nafa ye.",
+        "fr": "L'intelligence est une richesse.",
+        "en": "Intelligence is a treasure."
+    },
+    {
+        "id": 3,
+        "verified": false,
+        "bm": "Kalan ye yɛrɛ jɔyɔrɔ ye.",
+        "fr": "L'étude te donne ta place.",
+        "en": "Study gives you your place."
+    },
+    {
+        "id": 4,
+        "verified": false,
+        "bm": "Ɲɔgɔn dɛmɛ ye den ye.",
+        "fr": "S'entraider, c'est faire grandir.",
+        "en": "Helping one another makes us grow."
+    },
+    {
+        "id": 5,
+        "verified": false,
+        "bm": "Kan ye mɔgɔ ka so ye.",
+        "fr": "La langue est la maison de l'être.",
+        "en": "Language is the home of a people."
+    }
+]
